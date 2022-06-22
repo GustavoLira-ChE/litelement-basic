@@ -1,0 +1,20 @@
+{
+  "name": "my-first-litelement-project",
+  "version": "1.0.0",
+  "description": "This is a litElement project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "litElement",
+    "web",
+    "component"
+  ],
+  "author": "Gustavo Lira",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^3.2.0"
+  }
+}
